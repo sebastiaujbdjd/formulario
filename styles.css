@@ -19,14 +19,14 @@ body::before {
     url(./geometry-1023846_1920.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    
+
 }
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
-    margin: 1em auto;
+    margin: 10em auto;
     padding: 0;
     font-size: 3em;
 }
